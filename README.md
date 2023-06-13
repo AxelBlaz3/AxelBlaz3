@@ -49,7 +49,7 @@ I'm always open to connecting with like-minded individuals or discussing potenti
 
 ## Blog ✍️
 
-Apart from coding, I love to share my thoughts and experiences on the technologies I work with through my blog., I'm currently in the process of developing my own blog. Stay tuned for its upcoming launch!
+Apart from coding, I love to share my thoughts and experiences on the technologies I work with through my blog. I'm currently in the process of developing my own blog. Stay tuned for its upcoming launch!
 
 ## Final Words ✨
 
