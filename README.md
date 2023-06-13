@@ -1,10 +1,10 @@
 # Welcome to My Profile! 👋
 
-Hello there! I'm Karthik, a passionate Mobile Develoer 🚀. Welcome to my GitHub profile, where you can explore my projects, contributions, and more. Let me give you a brief overview of what you'll find here. 😄
+Hello there! I'm Karthik, a passionate Mobile Developer 🚀. Welcome to my GitHub profile, where you can explore my projects, contributions, and more. Let me give you a brief overview of what you'll find here. 😄
 
 ## About Me ℹ️
 
-I'm a Full Stack Mobile Developer 👨‍💻, dedicated to developing mobile apps using latest technologies and best practices. I have a strong background in a wide range of technologies including but not limited to Python, Kotlin, Java, Golang, Dart, and Typescript. With each project I undertake, I strive to challenge myself, learn new technologies, and create meaningful solutions. 💡
+I'm a Full Stack Mobile Developer 👨‍💻, dedicated to developing mobile apps using latest technologies and best practices. I have a strong background in a wide range of technologies including but not limited to Android, Kotlin, Java, Flutter, Dart, Python, Golang and Typescript. With each project I undertake, I strive to challenge myself, learn new technologies, and create meaningful solutions. 💡
 
 ## Projects 📂
 
