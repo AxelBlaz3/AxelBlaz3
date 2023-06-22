@@ -20,7 +20,7 @@ Here are a few notable projects that showcase my skills and interests:
 - **Description**: Use Carnival to search for podcasts, tv shows, and movies from your favourite platforms to fit perfectly with how long you want to work out for.
 - **Technologies**: _Flutter, Dart, Provider, Python, Flask, MongoDB, and JWT_.
 
-### [Hing: Share Food Recipes](https://play.google.com/store/apps/details?id=com.hing))
+### [Hing: Share Food Recipes](https://play.google.com/store/apps/details?id=com.hing)
 
 - **Description**: Sharing your favorite recipes made easier.HING ~ a platform to share your recipes, where people
 like you come to discover and share many home-cooked recipes every day. This was one of the apps that has most of the features close to a social networking app except messaging. 
