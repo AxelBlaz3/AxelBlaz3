@@ -26,15 +26,15 @@ Here are a few notable projects that showcase my skills and interests:
 like you come to discover and share many home-cooked recipes every day. This was one of the apps that has most of the features close to a social networking app except messaging. 
 - **Technologies**: _Flutter, Dart, Provider, State hoisting, Python, Flask, MongoDB, JWT, Firebase, Push notifications, FFMPEG, and HLS streaming_.
 
+### [Loudcar](https://play.google.com/store/apps/details?id=com.loudcar)
+
+- **Description**: Loudcar app can be used to configure and control the custom loudcar LED panel hardware. Text will be sent in a specific format using Bluetooth classic protocol and it would be received at the hardware. The hardware would decode this text and display it. Google assistant can be used for handless operation. I developed it using Java focusing on architecture using LiveData, and MVVM. Communicates with the LED hardware using Bluetooth Low Energy (BLE).
+- **Technologies**: _Java, Bluetooth Low Energy (BLE), Android SDK, Shared Preferences, MVVM, Gradle_.
+
 ### [Notes](https://github.com/AxelBlaz3/Notes)
 
 - **Description**: Introducing a sleek notes app developed using Kotlin and Jetpack Compose. Designed with Material3 in mind, it offers a seamless user experience. Built with Clean Architecture and MVVM pattern, it demonstrates modern Android development practices, including modularization. The app also features an inbuilt OCR scanner for extracting notes from images.
 - **Technologies**: _Kotlin, Android SDK, Jetpack Compose, Room (SQLite), Material3, State hoisting, Clean Architecture, MVVM, Flows, Coroutines, OCR, Google ML Vision, Modularization, Gradle_.
-
-### [Loudcar](https://play.google.com/store/apps/details?id=com.loudcar))
-
-- **Description**: Loudcar app can be used to configure and control the custom loudcar LED panel hardware. Text will be sent in a specific format using Bluetooth classic protocol and it would be received at the hardware. The hardware would decode this text and display it. Google assistant can be used for handless operation. I developed it using Java focusing on architecture using LiveData, and MVVM. Communicates with the LED hardware using Bluetooth Low Energy (BLE).
-- **Technologies**: _Java, Bluetooth Low Energy (BLE), Android SDK, Shared Preferences, MVVM, Gradle_.
 
 ### Malicious URL Prediction using DNN
 
